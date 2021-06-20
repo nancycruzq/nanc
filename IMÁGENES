@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>imagen dentro de una pagina</title>
+  </head>
+  <body>
+    <img src="imagen/poligonal.jpg" alt="paisaje poligonal">
+    <p>
+      insertar una himagen.
+    </p>
+  </body>
+</html>
